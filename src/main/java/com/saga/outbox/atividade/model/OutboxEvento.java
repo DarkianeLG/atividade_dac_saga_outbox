@@ -7,7 +7,7 @@ import lombok.Setter;
 @Getter
 @Setter
 @Entity
-@Table(name = "outbox_event")
+@Table(name = "outbox_evento")
 public class OutboxEvento {
 
     @Id
